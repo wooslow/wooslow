@@ -1,5 +1,5 @@
 <p align="center">
-<img src="https://cdn.discordapp.com/attachments/1185248882511335525/1188045730506608720/imgonline-com-ua-Resize-LSUepYiyxMSO.jpg">
+<img src="https://avatars.githubusercontent.com/u/84588908?s=400&u=a30a3a12e1b387945e2bdc2f169cd8f05882b85f&v=4">
 </p>
 <h1 align="center">Hey there, I'm <a href="https://earluv.tech/" target="_blank">Earl</a> 
 <img src="https://github.com/blackcater/blackcater/raw/main/images/Hi.gif" height="32"/></h1>
