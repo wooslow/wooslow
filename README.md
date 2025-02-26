@@ -17,34 +17,31 @@
 
 <h1 align="center">hey there 👋</h1>
 
-###
+## I'am Python Backend Developer and web3 developer
 
-<h3 align="left">👩‍💻  About Me</h3>
+🚀 I am passionate about backend development, blockchain technology and automation. I develop websites and different bots for different projects
 
-###
+---
 
-<p align="left">I'm Earl from Lithuania!<br><br>- ⚙️ Learning Python / C++/ UE5<br>- 🌍 Working on websites<br>- ✉️ Enjoying my freedom</p>
+## 🔥 About Me
+- 🎯 **Web3 & Crypto Development**: Specialized in blockchain technology, custom tokens, and large-scale transaction tracking.
+- 🛠 **Backend Python Engineering**: Proficient in Django, FastAPI, PostgreSQL, Redis, and MongoDB.
+- 🤖 **Automation & Bots**: Developed multiple bots for Discord, Telegram, and business automation.
+- 🌍 **Open-Source Contributor**: Founder of the official Disnake CIS community and contributor to `disnake-ext-(same-plugins)`.
+- 🎮 **Game Development**: Experience in developing game automation tools and custom CS2/GTA5 game servers.
+---
 
-###
+## 🛠 Tech Stack
 
-<h3 align="left">🛠 Language and tools</h3>
+- Python `(Django, FastAPI)` | Node.js, C#
+- PostgreSQL, MongoDB, Redis, SQLAlchemy
+- JavaScript, React, HTML, CSS, littel bit of TS
+- Python (Aiogram, Discord API)
+- Web3 (Ethereum, TON)
+- Docker, Nginx, Sentry
 
-###
+---
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" height="40" alt="pycharm logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" height="40" alt="cplusplus logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="40" alt="nodejs logo"  />
-</div>
-
-###
+## 🌍 Connect with Me
+- 📧 Email: [wooslow@proton.me](mailto:wooslow@proton.me)
+- 🌐 Website: [wooslow.tech](https://wooslow.tech)
