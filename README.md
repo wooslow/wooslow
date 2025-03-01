@@ -43,5 +43,5 @@
 ---
 
 ## 🌍 Connect with Me
-- 📧 Email: [wooslow@proton.me](mailto:wooslow@proton.me)
-- 🌐 Website: [wooslow.tech](https://wooslow.tech)
+- 📧 Email: [contact@wooslow.dev](mailto:contact@wooslow.dev)
+- 🌐 Website: [wooslow.dev](https://wooslow.dev)
